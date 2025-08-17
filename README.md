@@ -1,4 +1,4 @@
-# screen-time-prediction
+# Screen-Time-Prediction
 # 📊 Predictive Analysis of Screen Time in Indian Kids Using Machine Learning
 
 ## 📌 Project Overview
